@@ -1,0 +1,28 @@
+.primary{
+    color:blue;
+}
+.ba{
+    background-color: aquamarine;
+}
+.sec{
+    background-color: green;
+    padding: 15px;
+    margin:15px;
+    border-color: green;
+   border-radius: 10px;
+}
+.secr{
+    background-color: red;
+    padding: 15px;
+    margin:15px;
+    border-color:red;
+   border-radius: 10px;
+
+}
+.thi{
+   background-color: aqua; 
+   padding: 15px;
+   margin:15px;
+   border-color: aqua;
+   border-radius: 10px;
+}
